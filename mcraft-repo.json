@@ -23,6 +23,13 @@
             "version": "0.0.1",
             "stylesGlobal": true,
             "description": "Add blur to backdrops like in new Minecraft"
+        },
+        {
+            "name": "zardoy.cheat-client",
+            "version": "1.0.0",
+            "scriptMainUnstable": true,
+            "threeJsBackend": true,
+            "description": "Wurst-style cheat client with KillAura, Flight, ESP and more!"
         }
     ]
 }
